@@ -12,11 +12,10 @@ This project contains a Power BI dashboard designed to analyze marketing and adv
 ## 📌 Key Features
 
 - **Cards** – Quick summary of major KPIs like Total Impressions, Clicks, CTR, CPC, and Conversions.
-- **KPIs** – Track actual performance vs. targets with visual indicators.
-- **Clustered Column & Bar Charts** – Compare campaign performance by product, audience, or platform.
-- **Maps** – Visualize revenue or conversions by country or region.
-- **Funnel Chart** – Display conversion flow from impressions → clicks → conversions.
-- **Slicers** – Interactive filtering by campaign, date, gender, or country.
+- **Clustered Column & Bar Charts** – Compare campaign performance by product.
+- **Line Chart** – Visualize approved conversion out of total conversion.
+- **Pie Chart** – Display campaign with most clicks.
+- **Slicers** – Interactive filtering by age and gender.
 
 ---
 
