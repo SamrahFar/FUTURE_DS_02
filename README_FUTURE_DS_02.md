@@ -52,11 +52,10 @@ FUTURE_DS_02/
 ## 🎨 Visual Elements Used
 
 - **Cards** – Display key metrics at a glance, like CTR, CPC, and Total Conversions.
-- **KPIs** – Compare actual performance vs. defined targets with trend indicators.
-- **Funnel Chart** – Show the conversion path from Impressions → Clicks → Conversions.
-- **Clustered Column/Bar Charts** – Compare campaign results across products or demographics.
-- **Maps** – Understand geographic performance distribution.
-- **Slicers** – Filter data interactively by Campaign ID, Date, Gender, or Region.
+- **Clustered Column/Bar Charts** – Compare campaign results.
+- **Pie** – Understand Campaign with most clicks.
+- **Slicers** – Filter data interactively by Age and Gender
+- **Trends**   Understand approved conversion out of total converion 
 
 ---
 
