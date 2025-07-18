@@ -29,8 +29,6 @@ FUTURE_DS_02/
 │   └── marketing_data.xlsx                # Raw or processed dataset
 ├── visuals/
 │   └── dashboard-preview.png              # Screenshot of final dashboard
-├── docs/
-│   └── metric-definitions.pdf             # KPI definitions and formulas
 ├── README.md                              # Project documentation
 ```
 
